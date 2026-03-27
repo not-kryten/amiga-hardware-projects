@@ -55,6 +55,8 @@ Providing the adaptor in SCAD format allows individuals to experiment according 
 
 *Work in progress:* I am trying to find out if a friction-based adaptor will work. If not possible then a suitable adhesive could be used to attached the adaptors over the original feet. The adhesive that is applied to the rubber feet (from Ebay; see below) seems very suitable but I do not know how to source it. If you know please let me know.
 
+**Of course, you can simply replace the original feet with larger rubber feet. I've experimented with this, but since I frequently swap accelerator cards—most of which don't require the case to be artificially elevated—the removable adaptors are more convenient for me.**
+
 ## Rubber feet
 
 Rubber feet (4 mm x 4.5 mm) were sourced from Ebay:
